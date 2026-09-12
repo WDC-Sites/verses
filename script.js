@@ -1,0 +1,1 @@
+window.onerror=function(message,source,lineno,colno,error){var errorInfo='Error: '+message+'\nSource: '+source+'\nLine: '+lineno+'\nColumn: '+colno+'\nError Object: '+error;alert(errorInfo);return true;};
